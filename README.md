@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [minimal-mistakes/kitty](https://minimal-mistakes.xyz/apps/terminals/vscode).
+All instructions can be found at [minimal-mistakes/kitty](https://minimal-mistakes.xyz/apps/terminals/kitty).
 
 ## Team
 
