@@ -16,10 +16,6 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 | ------------------------------------------------------------------------------------------------------------------ |
 | [Minimal-Mistakes](https://github.com/Minimal-Mistakes)                                                            |
 
-## Contributing
-
-If you'd like to contribute to this theme, please read the [contributing guidelines](./.github/CONTRIBUTING.md).
-
 ## License
 
 [GPL-TRC License](./LICENSE)
