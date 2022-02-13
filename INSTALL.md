@@ -2,7 +2,7 @@
 
 #### Install
 
-Download using the [GitHub .zip](https://github.com/Minimal-Mistakes/kitty/archive/master.zip) download option
+Download using the [GitHub .zip](https://github.com/Minimal-Mistakes/kitty/archive/main.zip) download option
 
 #### Install using Git
 
