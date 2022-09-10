@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [minimal-mistakes/kitty](https://minimal-mistakes.xyz/apps/terminals/kitty).
+All instructions can be found at [minimal-mistakes/kitty](https://minimalmistakes.org/apps/terminals/kitty).
 
 ## Team
 
